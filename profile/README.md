@@ -38,6 +38,16 @@
 
 기능은 모두 무료이고, 요금제는 저장 공간만 달라요 → [요금제](https://zzazan.ai/pricing)
 
+### 만든 사람들
+
+짜잔은 [2026 AI·SW마에스트로](https://www.swmaestro.ai) 제17기 프로젝트예요.
+
+| 연수생 | 멘토 |
+|---|---|
+| 김인성 [@Danto7632](https://github.com/Danto7632) | 정진규 [@monibu1548](https://github.com/monibu1548) |
+| 김태욱 [@nasodemo](https://github.com/nasodemo) | 박준영 [@kaien-pjy](https://github.com/kaien-pjy) |
+| 최종은 [@SilVerBell0109](https://github.com/SilVerBell0109) | 정경민 [@taxideftis](https://github.com/taxideftis) |
+
 ### 링크
 
 | 항목 | 링크 |
@@ -54,6 +64,7 @@
 **Zzazan** recognizes faces on your device, gathers your child's photos from a scattered camera roll, narrows similar shots to the best one, and shares your picks to family group albums.
 Show Zzazan your child's face once, and it finds their photos across your camera roll, one album per child. Face recognition data is never sent to our servers.
 Every feature is free; plans differ only in storage. → [zzazan.ai/en](https://zzazan.ai/en)
+Zzazan is a project of the 17th cohort of [AI·SW Maestro](https://www.swmaestro.ai) in Korea.
 
 ---
 
