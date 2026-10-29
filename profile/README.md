@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://apps.apple.com/kr/app/id6799102499"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/app-store-ko.svg" height="40" alt="App Store에서 다운로드하기"></a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=ai.zzazan.app"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/google-play-ko.png" height="58" alt="Google Play에서 다운로드"></a>
+  <a href="https://play.google.com/store/apps/details?id=ai.zzazan.app"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/google-play-ko.png" height="50" alt="Google Play에서 다운로드"></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ### 링크
 
-| | |
+| 항목 | 링크 |
 |---|---|
 | 🌐 웹사이트 | [zzazan.ai](https://zzazan.ai) · [English](https://zzazan.ai/en) |
 | 💻 웹 버전 | [app.zzazan.ai](https://app.zzazan.ai) |
