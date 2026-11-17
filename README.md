@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/kr/app/id6799102499"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/app-store-ko.svg" height="40" alt="App Store에서 다운로드하기"></a>
+  <a href="https://apps.apple.com/kr/app/%EC%A7%9C%EC%9E%94-zzazan-%EC%95%84%EA%B8%B0-%EC%82%AC%EC%A7%84-%EC%A0%95%EB%A6%AC-%EC%95%A8%EB%B2%94/id6799102499"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/app-store-ko.svg" height="40" alt="짜잔 — App Store에서 다운로드하기"></a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=ai.zzazan.app"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/google-play-ko.png" height="50" alt="Google Play에서 다운로드"></a>
+  <a href="https://play.google.com/store/apps/details?id=ai.zzazan.app&hl=ko"><img src="https://raw.githubusercontent.com/zzazan-asm/.github/main/profile/assets/google-play-ko.png" height="50" alt="짜잔 — Google Play에서 다운로드"></a>
 </p>
 
 <p align="center">
@@ -52,17 +52,19 @@
 
 | 항목 | 링크 |
 |---|---|
+| 📲 앱 받기 | [App Store의 짜잔 앱 페이지](https://apps.apple.com/kr/app/%EC%A7%9C%EC%9E%94-zzazan-%EC%95%84%EA%B8%B0-%EC%82%AC%EC%A7%84-%EC%A0%95%EB%A6%AC-%EC%95%A8%EB%B2%94/id6799102499) · [Google Play의 짜잔 앱 페이지](https://play.google.com/store/apps/details?id=ai.zzazan.app&hl=ko) |
 | 🌐 웹사이트 | [zzazan.ai](https://zzazan.ai) · [English](https://zzazan.ai/en) |
 | 💻 웹 버전 | [app.zzazan.ai](https://app.zzazan.ai) |
 | 📣 업데이트 소식 | [zzazan.ai/releases](https://zzazan.ai/releases) |
 | 💬 고객 지원 · 문의 | [zzazan.ai/support](https://zzazan.ai/support) · [support@zzazan.ai](mailto:support@zzazan.ai) |
 | 📄 약관 · 개인정보 | [이용약관](https://zzazan.ai/terms) · [개인정보 처리방침](https://zzazan.ai/privacy) |
-| 📱 소셜 | [Instagram](https://www.instagram.com/zzazan_kr/) · [YouTube](https://www.youtube.com/@zzazan_kr) · [Threads](https://www.threads.com/@zzazan_kr) · [Facebook](https://www.facebook.com/zzazankr) |
+| 📱 소셜 | [Instagram](https://www.instagram.com/zzazan.ai/) · [YouTube](https://www.youtube.com/@zzazan_ai) · [Threads](https://www.threads.com/@zzazan.ai) · [Facebook](https://www.facebook.com/zzazankr) |
 
 ### In English
 
 **Zzazan** recognizes faces on your device, gathers your child's photos from a scattered camera roll, narrows similar shots to the best one, and shares your picks to family group albums.
 Show Zzazan your child's face once, and it finds their photos across your camera roll, one album per child. Face recognition data is never sent to our servers.
+Get [Zzazan on the App Store](https://apps.apple.com/us/app/zzazan-kids-photo-organizer/id6799102499) or [Zzazan on Google Play](https://play.google.com/store/apps/details?id=ai.zzazan.app&hl=en).
 Every feature is free; plans differ only in storage. → [zzazan.ai/en](https://zzazan.ai/en)
 Zzazan is a project of the 17th cohort of [AI·SW Maestro](https://www.swmaestro.ai) in Korea.
 
